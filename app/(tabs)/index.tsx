@@ -7,6 +7,7 @@ const HomeScreen = () => {
   return (
     <View  >
       <Text>{'sadsada'}</Text>
+      <Text>{'sadsada'}</Text>
     </View>
   );
 };
